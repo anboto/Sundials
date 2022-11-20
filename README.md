@@ -1,5 +1,3 @@
 # Sundials
 
-Plugin to SUite of Nonlinear and DIfferential/ALgebraic equation Solvers
-
-https://computing.llnl.gov/projects/sundials
+Plugin to [Sundials](https://computing.llnl.gov/projects/sundials), the SUite of Nonlinear and DIfferential/ALgebraic equation Solvers.
